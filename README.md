@@ -1,4 +1,4 @@
-# This is a `ReactJS` app in `Type script` along with the `Redux Toolkit` 
+# This is a `ReactJS` app in `typeScript` along with the `Redux-Toolkit` 
 
 [Visit](https://anmolnoor.github.io/reservationSystem/).
 
