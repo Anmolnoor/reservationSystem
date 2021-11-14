@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reservationSystem/static/css/main.28431fd4.chunk.css",
+    "main.js": "/reservationSystem/static/js/main.c132b5a4.chunk.js",
+    "main.js.map": "/reservationSystem/static/js/main.c132b5a4.chunk.js.map",
+    "runtime-main.js": "/reservationSystem/static/js/runtime-main.62c337d8.js",
+    "runtime-main.js.map": "/reservationSystem/static/js/runtime-main.62c337d8.js.map",
+    "static/js/2.733c17d4.chunk.js": "/reservationSystem/static/js/2.733c17d4.chunk.js",
+    "static/js/2.733c17d4.chunk.js.map": "/reservationSystem/static/js/2.733c17d4.chunk.js.map",
+    "static/js/3.7179ef7f.chunk.js": "/reservationSystem/static/js/3.7179ef7f.chunk.js",
+    "static/js/3.7179ef7f.chunk.js.map": "/reservationSystem/static/js/3.7179ef7f.chunk.js.map",
+    "index.html": "/reservationSystem/index.html",
+    "static/css/main.28431fd4.chunk.css.map": "/reservationSystem/static/css/main.28431fd4.chunk.css.map",
+    "static/js/2.733c17d4.chunk.js.LICENSE.txt": "/reservationSystem/static/js/2.733c17d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c337d8.js",
+    "static/js/2.733c17d4.chunk.js",
+    "static/css/main.28431fd4.chunk.css",
+    "static/js/main.c132b5a4.chunk.js"
+  ]
+}
